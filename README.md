@@ -6,4 +6,5 @@ It expects 4 types of incoming messages:
   2. Order Amemd
   3. Orcer Cancel
   4. Order fill (Trade)
+
 Upon receiving the incoming data, it will process it and update the order book accordingly.
