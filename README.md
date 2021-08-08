@@ -9,4 +9,5 @@ It expects 4 types of incoming messages:
   3. Orcer Cancel
   4. Order fill (Trade)
 
-Upon receiving the incoming data, it will process it and update the order book accordingly.
+Upon receiving the incoming data, it processes it and update the order book accordingly. 
+After processing each message, it prints the order book to console.
